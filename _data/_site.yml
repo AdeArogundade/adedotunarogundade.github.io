@@ -1,0 +1,14 @@
+name: "Adedotun Arogundade"
+output_dir: "."
+theme: jekyll-theme-cayman
+navbar:
+  title: "Adedotun Arogundade"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Values"
+      href: Values.html
+    - text: "Research"
+      href: Research.html
+    - text: "Contact"
+      href: Contact.html
