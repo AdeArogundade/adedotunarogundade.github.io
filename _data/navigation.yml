@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -23,11 +23,11 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /index.html
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Values
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -49,4 +49,4 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /Values.html
