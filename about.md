@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Values
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -25,6 +25,10 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+
+# Want to see a Change
+
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
