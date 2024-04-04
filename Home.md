@@ -1,7 +1,24 @@
 ---
-title: "Contact"
-output: html_document
+layout: article
+titles:
+  # @start locale config
+  en      : &EN       Home
+  # @end locale config
+key: page-about
 ---
+
+
+
+
+```{js logo-js, echo=FALSE}
+$(document).ready(function() {
+  $('#header').parent().prepend('<div id=\"logo\"><img src=\"Images/Departmental_Logo.png\" style=\"position:absolute; top:0; right:0; padding:10px; height:120px\"></div>');
+  $('#header').css('margin-right', '120px')
+});
+```
+
+![](Images/Departmental_Logo.png)
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

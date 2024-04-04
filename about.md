@@ -27,8 +27,9 @@ key: page-about
 ---
 
 
-# Want to see a Change
 
+# Want to see a Change
+## How about another change
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
