@@ -10,11 +10,9 @@ key: page-about
 
 
 
+
 ![](Images/Departmental_Logo.png)
 
-<!--begin.rcode
-summary(cars)
-end.rcode-->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
