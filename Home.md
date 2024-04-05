@@ -10,15 +10,11 @@ key: page-about
 
 
 
-```{js logo-js, echo=FALSE}
-$(document).ready(function() {
-  $('#header').parent().prepend('<div id=\"logo\"><img src=\"Images/Departmental_Logo.png\" style=\"position:absolute; top:0; right:0; padding:10px; height:120px\"></div>');
-  $('#header').css('margin-right', '120px')
-});
-```
-
 ![](Images/Departmental_Logo.png)
 
+<!--begin.rcode
+summary(cars)
+end.rcode-->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

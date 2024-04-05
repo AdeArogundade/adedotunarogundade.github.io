@@ -39,6 +39,10 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 (() => console.log('Hello, World!'))();
 ```
 
+```rscript
+2+2
+```
+
 ## Features
 
 - Responsive
