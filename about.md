@@ -29,7 +29,12 @@ key: page-about
 
 
 # Want to see a Change
+
 ## How about another change
+
+
+
+#### It would be cool to see another one.
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
